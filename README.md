@@ -7,5 +7,7 @@ Feel free to make pull requests against this README.md if you have made a review
 
 draft-ietf-kitten-sasl-saml-ec was first published as a kitten WG document on 2011-08-30.
 
+An implementation exists at [fedushare/mech\_saml\_ec](https://github.com/fedushare/mech_saml_ec), first published 2012-05-16.
+
 Reviewer | Review Date | Version Reviewed | Review Notes/Summary | Link to Review
 ---------|-------------|------------------|----------------------|---------------

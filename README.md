@@ -19,3 +19,4 @@ Sam Hartman | 2014-03-10 | -11 | some security implementations, interop | https:
 Ben Kaduk | 2015-01-07 | -12 | language review, not in-depth | https://www.ietf.org/mail-archive/web/kitten/current/msg05251.html
 Alejandro Pérez Méndez | 2015-10-06 | -13 | language clarifications | https://www.ietf.org/mail-archive/web/kitten/current/msg05864.html
 Robbie Harwood | 2019-08-22 | -18 | idnits cleanups | https://mailarchive.ietf.org/arch/msg/kitten/K8nVy8ptRDHSUU_Qmhapf2zfq6o
+Ben Kaduk | 2020-09-03 | -19 | AD review, very extensive, requires a lot off workt to address | https://mailarchive.ietf.org/arch/msg/kitten/dNOr3BnynNrSevKxL-DI7uQ-Nus/

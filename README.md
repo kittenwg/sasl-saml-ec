@@ -20,3 +20,4 @@ An implementation exists at [fedushare/mech\_saml\_ec](https://github.com/fedush
 | Alejandro Pérez Méndez | 2015-10-06  | -13              | language clarifications                                        | https://www.ietf.org/mail-archive/web/kitten/current/msg05864.html        |
 | Robbie Harwood         | 2019-08-22  | -18              | idnits cleanups                                                | https://mailarchive.ietf.org/arch/msg/kitten/K8nVy8ptRDHSUU_Qmhapf2zfq6o  |
 | Ben Kaduk              | 2020-09-03  | -19              | AD review, very extensive, requires a lot off workt to address | https://mailarchive.ietf.org/arch/msg/kitten/dNOr3BnynNrSevKxL-DI7uQ-Nus/ |
+| Ben Kaduk              | 2021-05-11  | -20              | introduction ordering                                          | https://mailarchive.ietf.org/arch/msg/kitten/ta250RqW60jywSpVG7LUbGlS_m4/ |
